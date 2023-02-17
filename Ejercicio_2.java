@@ -11,7 +11,7 @@
  */
 
 
-public class Ejercicico_1 {
+public class Ejercicico_2 {
 
     public static void main(String[] args) {
 
